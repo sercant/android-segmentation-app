@@ -1,7 +1,7 @@
 # Semantic Image Segmentation on Android
 
 This is a basic application to demonstrate the network presented 
-in [[1]][1] *An Efficient Solution for Semantic Segmentation: ShuffleNet
+in [\[1\]][1] *An Efficient Solution for Semantic Segmentation: ShuffleNet
 V2 with Atrous Separable Convolutions*. To check out the network itself and the other
 trained models please refer to the main repository: [sercant/mobile-segmentation][2].
 
